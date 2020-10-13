@@ -33,7 +33,14 @@ header {
   font-weight: bold;
   margin: 0 0 0.2em 0;
   border-radius: 3px;
+  box-shadow: 3px 3px 3px 3px wheat;
 }
+
+.nav_menu li a:hover {
+  background-color: white;
+  transform: scale(2, 2.3);
+}
+
 .nav_menu a {
   display: block;
   width: 80px;
