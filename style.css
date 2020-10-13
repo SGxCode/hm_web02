@@ -39,6 +39,7 @@ header {
 .nav_menu li a:hover {
   background-color: white;
   transform: scale(2, 2.3);
+  box-shadow: 2px 2px 2px 2px white;
 }
 
 .nav_menu a {
